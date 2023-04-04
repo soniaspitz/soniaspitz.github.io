@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+    color: blueviolet;
+    margin: 30px 
+}
+
+.red-letters{
+    color: red;
+    font-size: 30;
+    margin: 50px
+}
+
+.center{
+    align-items: center;
+}
